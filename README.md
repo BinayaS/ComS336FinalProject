@@ -1,4 +1,4 @@
-# ComS336FinalProject
+# ComS336FinalProject | Infinite 3D platformer
 
 A first person endless runner made using three.js
 
